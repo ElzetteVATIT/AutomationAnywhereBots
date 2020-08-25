@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Path>
+
+<InputFilePath>C:\LanguageDetectionBot\Invoices\</InputFilePath>
+
+<OutputFilePath>C:\LanguageDetectionBot\Output\</OutputFilePath>
+
+<LanguageFolder>C:\LanguageDetectionBot\</LanguageFolder>
+
+<LogFilePath>C:\LanguageDetectionBot\Log\</LogFilePath>
+
+</Path>
