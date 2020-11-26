@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Email Triggers","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Finance\\Rydoo\\Investec to Rydoo","Automation Anywhere\\Bots\\BPM\\BPM Claims"]}
+{"path":"Automation Anywhere\\Bots\\Email Triggers","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\BPM\\BPM Claims","Automation Anywhere\\Bots\\Finance\\Forex Bot\\Forex Rates Fetcher (XE)","Automation Anywhere\\Bots\\Finance\\Rydoo\\Investec to Rydoo"]}
