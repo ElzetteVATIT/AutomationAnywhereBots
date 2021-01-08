@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Finance\\Click bot\\File triggers","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Finance\\Click bot\\ClickBot"]}
+{"path":"Automation Anywhere\\Bots\\Finance\\Click bot\\File triggers","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Finance\\Click bot\\YesBot","Automation Anywhere\\Bots\\Finance\\Click bot\\ClickBot"]}
